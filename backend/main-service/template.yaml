@@ -28,6 +28,7 @@ Resources:
           - DELETE
         AllowOrigins:
           - https://todo.houessou.com
+          - http://localhost:8000
         AllowHeaders:
           - '*'
            

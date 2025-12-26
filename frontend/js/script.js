@@ -1,5 +1,5 @@
-var todoApiEndpoint = 'https://j3cv37qhud.execute-api.us-east-1.amazonaws.com/dev/';
-var todoFilesApiEndpoint = 'https://4oumdscha7.execute-api.us-east-1.amazonaws.com/dev/';
+var todoApiEndpoint = 'http://localhost:3000/';
+var todoFilesApiEndpoint = 'http://localhost:3001/';
 // const websocket = new WebSocket('wss://bum4o4rx48.execute-api.us-east-1.amazonaws.com/production/');
 var cognitoUserPoolId = 'us-east-1_fM3BzKm1u';
 var cognitoUserPoolClientId = '4ajb6clml9vft00cof689o6c0p';
