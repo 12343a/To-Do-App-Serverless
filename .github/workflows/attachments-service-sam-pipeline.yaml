@@ -6,7 +6,7 @@ on:
       paths:
         - 'backend/attachments-service/**'
 jobs:
-  build-deploy:
+  build-deploy: 
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
